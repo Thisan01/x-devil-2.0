@@ -86,7 +86,7 @@ You need to install the x-devil bot from the first device
   
   </a>
 
- x-devil bot's command list🤖
+# x-devil bot's command list🤖
 
 <a href="https://gist.github.com/Thisan01/fa204eb01573f71391686a0a664fc8d2">
     <img src="https://img.shields.io/badge/Click%20here-purple&style=plastic">
@@ -100,7 +100,10 @@ Answer some of the most frequently asked questions;
 Since this project is open source, all codes are clear. Not more or less; You can see what you want. ** We do not have access to your accounts. **
 
 ### 🔒 What about our security?
-If you are concerned about security, you can install it on your own computer. If you think someone else has captured your data, go to ** Whatsapp> Three Dots> Whatsapp Web> Logout **.  .
+If you are concerned about security, you can install it on your own computer. If you think someone else has captured your data, go to ** Whatsapp> Three Dots> Whatsapp Web> Logout **.
+
+### 💰Is this bot worth paying for? 
+** Absolutely not. ** It never happens. But you can donate to us.
 
 ### ⚠️ Warning! 
 ```
