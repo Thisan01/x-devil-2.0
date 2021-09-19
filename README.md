@@ -2,6 +2,12 @@
   [![English](https://img.shields.io/badge/Select-English-red.svg)](https://github.com/Thisan01/x-devil-2.0/blob/main/README.md)
   [![Sinhala](https://img.shields.io/badge/Select-Sinhala-green.svg)](https://github.com/Thisan01/x-devil-2.0/blob/main/README-Sl.md)
 
+</p>
+             
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+X-devil+bot&font=Fira%20Code&center=true&width=380&height=50">
+</p>
+
 ![logo](https://telegra.ph/file/751bab3a465bbe2500948.jpg)
 <h1 align="center"><b> 👨‍💻x-ᴅᴇᴠɪʟ🇱🇰ʙᴏᴛ </b></h1>
 
