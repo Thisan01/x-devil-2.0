@@ -161,9 +161,9 @@ x-devil පිහිටුවීමෙන් ඔබ මෙම වගකීම්
 
 [![Find On Whatsapp ](https://img.shields.io/badge/Findon-whatsapp-blue.svg)](https://Wa.me/+918556801792)
 
-➤ Zon Even   [  BUG Reporter  ]
+➤ Hassan bro   [  BUG Reporter  ]
 
-[![Find On Whatsapp ](https://img.shields.io/badge/Findon-whatsapp-blue.svg)](https://Wa.me/+1(501)289-4376)
+[![Find On Whatsapp ](https://img.shields.io/badge/Findon-whatsapp-blue.svg)](https://Wa.me/+923364591859)
 
 ➤ Chalana Prasad  [ Script Writer ]
 
